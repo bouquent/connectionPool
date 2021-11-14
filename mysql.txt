@@ -1,0 +1,10 @@
+ip:127.0.0.1
+host:127.0.0.1
+user:root
+password:chenzezheng666
+db:test
+port:3306
+initSize:10
+maxSize:20
+maxfreeTime:3
+connectionTimeout:3
