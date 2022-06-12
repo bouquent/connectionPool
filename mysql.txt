@@ -8,3 +8,4 @@ initSize:10
 maxSize:20
 maxfreeTime:3
 connectionTimeout:3
+from far reposity
